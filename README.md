@@ -38,6 +38,11 @@ Credits to aio3 for his amazing tools for keyboard design, and his premade footp
 <img width="1833" height="667" alt="Screenshot 2026-05-24 203420" src="https://github.com/user-attachments/assets/540c9b71-b809-448f-ada1-f56af2d805a0" />
 <img width="2282" height="764" alt="image" src="https://github.com/user-attachments/assets/9c9262fa-87a5-46d2-a579-c6b0bc167c1b" />
 <img width="2298" height="756" alt="image" src="https://github.com/user-attachments/assets/7b9533bd-1406-4cb0-aec4-d2772eb06070" />
+<img width="2080" height="1228" alt="image" src="https://github.com/user-attachments/assets/bc36a3f5-b971-4de3-bcdb-9f1d249d835e" />
+<img width="1042" height="820" alt="image" src="https://github.com/user-attachments/assets/c110c32c-8b42-4306-884d-765390247169" />
+<img width="1567" height="565" alt="image" src="https://github.com/user-attachments/assets/ff985ac7-4f00-4a05-8aca-a139d339a289" />
+
+
 
 
 
